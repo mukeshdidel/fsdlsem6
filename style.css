@@ -1,0 +1,17 @@
+/* Tag Selector */
+body {
+    background-color: #f0f2f5;
+    margin: 20px;
+}
+
+/* Class Selector */
+.card {
+    padding: 30px;
+    border: 2px solid blue;
+}
+
+/* ID Selector */
+#page-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
